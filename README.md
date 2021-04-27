@@ -7,4 +7,3 @@ Protein folding modeling with evolved neural cellular automata (CA) using the at
 
 python my_rosetta.py <input.pdb> [unfolded, 3models, 3modelsAndStraight]
 
-⚠️ Repository under construction
